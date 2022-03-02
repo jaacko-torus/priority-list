@@ -5,29 +5,30 @@ I am making this document to better organize my head and all the projects I have
 List items are defined as follows:
 
 ```md
-- [ ] <Name> - <Description> - <Technology1>, <Technology2>, [<OptionalTechnology3>, <OptionalTechnology4>]
+- [ ] <Name> - <Description>[ - <OptionalTechnology1>, <OptionalTechnology2>]
 ```
 
 High priority should only have **ONE** project at a time.
 
 ## High
 
-- [ ] Taimi - Multi-timer app - React, TS, Ionic
+- [ ] Priority List - TODO list - React, [FireBase]
 
 ## Medium
 
-- [ ] Priority List - React, [FireBase]
+- [ ] no-name - Zoom clone - Python, React, TS
 - [ ] LAO&MM - API - C#
 - [ ] LAO&MM - Rewrite - Ruby -> Go
-- [ ] Portfolio/Website - React, TS
+- [ ] Portfolio/Website - no-description - React, TS
 
 ## Low
 
+- [ ] no-name - diff API
 - [ ] Lox - Finish lox language - C
 - [ ] Kodikos - Finish - JS local storage
 - [ ] Bandalee - API for translator app - Java, Spring
 
 ## Not defined
 
-- [ ] no-name - markup language
+- [ ] no-name - markup language - Scala
 - [ ] no-name - no-description - Ruby On Rails
